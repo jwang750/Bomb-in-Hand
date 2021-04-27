@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{CD8C9303-404B-FB8D-6B9B-21988D5CAC0A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/grenadeThrow.cs">
+    <Files>
+      <File FileName="Assets/grenadeThrow.cs" Line="154" Column="42" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="99" Column="33" />
+      <File FileName="Assets/Scripts/CameraController.cs" Line="415" Column="33" />
+      <File FileName="Assets/Scripts/BombController.cs" Line="90" Column="16" />
+      <File FileName="Assets/npc.cs" Line="86" Column="10" />
+      <File FileName="Assets/Scripts/box.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="grenadeThrow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="131fcfda-1fea-4709-a9a8-216c4d399c10" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

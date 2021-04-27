@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c866dfee-000e-4b04-8f7b-477f9af84d2d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/.vs/Unity/xs/UserPrefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity/.vs/Unity/xs/UserPrefs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Assets/grenadeThrow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity/Assets/grenadeThrow.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/03/03541c67fa39e5b10aa7a31da8949ef6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/0d/0dcfad3156176770f1bf25786ae4b4e3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/21/21bd0c4a5a8b1146663369b294c94e20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/2e/2e631e980f196734d238b555f3118920" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/2e/2edef5d858d51469fe9668b47a54aa3e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/37/37fd2b7c957a4d75fd32a0c209248c8d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/3e/3e6a4b1e97604ebb1338340cce317f07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/40/4009908cf07ed9b6debeb8cb235eaf4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/54/540b632fe3957c9ec74351695371f603" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/69/698bef3a6ac456cb11f6eaee5a52f1b1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/6a/6a651dcdba024b3eb1d968624e1410c8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/6b/6b6eb5dae9420678305e6410fae7d105" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/75/75eadaba49b738d759c41679407f738b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/77/774831abc554621bb0e8e7a13ef9209f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/94/944765cdd6480dcf2b9a124cb3f73b7e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/a7/a7daf4af8b51bc61208d07a2cfbf0c6f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/bb/bb173491e5ff5872367324478fed03d5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/bd/bdfb45576ea8c8a58147fe2141e8b3f5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/cf/cf875d11ab5ff7599f1fc7aaab292446" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/d7/d740e084ad0ceb87c23d8cf5d70ccabc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/e0/e003c994d30a62cfdd64c1ce9039fc4f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/e6/e63d3c6a8ddb5a4bb1343c5720d51c8a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/Artifacts/ed/edc7d79d9f5b792b2ca389247ff68abe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/shadercompiler-UnityShaderCompiler1.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity/Library/shadercompiler-UnityShaderCompiler1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/shadercompiler-UnityShaderCompiler2.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity/Library/shadercompiler-UnityShaderCompiler2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Library/shadercompiler-UnityShaderCompiler3.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity/Library/shadercompiler-UnityShaderCompiler3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/obj/Debug/Boxophobic.PolyverseSkies.Scripts.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity/obj/Debug/Boxophobic.PolyverseSkies.Scripts.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/obj/Debug/Boxophobic.Utils.Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity/obj/Debug/Boxophobic.Utils.Editor.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1rVv6cInYHf31P4mRDyiAx0TrBU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.gesture">
+    <configuration name="gesture" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gesture.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qlearning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qlearning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qlearning(1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qlearning(1).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gesture" />
+        <item itemvalue="Python.qlearning(1)" />
+        <item itemvalue="Python.qlearning" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c866dfee-000e-4b04-8f7b-477f9af84d2d" name="Default Changelist" comment="" />
+      <created>1619073897516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619073897516</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="91" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619151424336">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="91" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1619151424336" />
+    <state width="1419" height="231" key="GridCell.Tab.0.bottom" timestamp="1619229875679">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1619229875679" />
+    <state width="1419" height="231" key="GridCell.Tab.0.center" timestamp="1619229875678">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1619229875678" />
+    <state width="1419" height="231" key="GridCell.Tab.0.left" timestamp="1619229875678">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1619229875678" />
+    <state width="1419" height="231" key="GridCell.Tab.0.right" timestamp="1619229875679">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1619229875679" />
+    <state width="1419" height="286" key="GridCell.Tab.1.bottom" timestamp="1619183368585">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1619183368585" />
+    <state width="1419" height="286" key="GridCell.Tab.1.center" timestamp="1619183368584">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1619183368584" />
+    <state width="1419" height="286" key="GridCell.Tab.1.left" timestamp="1619183368584">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1619183368584" />
+    <state width="1419" height="286" key="GridCell.Tab.1.right" timestamp="1619183368584">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1619183368584" />
+    <state x="456" y="189" key="RollbackChangesDialog" timestamp="1619112868174">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="456" y="189" key="RollbackChangesDialog/0.23.1440.877@0.23.1440.877" timestamp="1619112868174" />
+  </component>
+</project>

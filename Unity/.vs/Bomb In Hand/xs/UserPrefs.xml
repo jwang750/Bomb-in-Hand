@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{EF285086-BA2D-C03F-22D7-D034E689A4ED}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/grenadeThrow.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="83" Column="1" />
+      <File FileName="Assets/npc.cs" Line="57" Column="59" />
+      <File FileName="Assets/grenadeThrow.cs" Line="83" Column="127" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bomb In Hand" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="grenadeThrow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7908c11d-e100-40d4-9813-13a6cfde9f03" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
