@@ -6,7 +6,7 @@ The goal of the Bomb in Hand game is to develop a combat game where the player c
 
 ## Overview
 
-Bomb in Hand game is a strategy game. Each player controls the character to move or throw a bomb by specific gestures.
+Bomb in Hand game is a strategy game. Player can control the character to move or throw a bomb by specific gestures(palm or fist).
 
 Both the player and the bot may move around their terrain. During the course of the game, the player can move and use bombs to attack and kill the bot, thereby winning the game. When bombs are thrown, they cause explosions that deform the terrain and cause damage. 
  
