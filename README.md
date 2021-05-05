@@ -18,4 +18,18 @@ The player wins the game by defeating the bot at every level as fast as possible
 
 Project website: [link](https://fanzhemeng.github.io/527-website/)
 
+## Team
+Zikai Cheng, [Linkedin](https://www.linkedin.com/in/zikaicheng/)
+
+Yijing Xiao, [Linkedin](https://www.linkedin.com/in/yijing-x-19aa5b6b/)
+
+Jingyi Wang, [Linkedin](https://www.linkedin.com/in/jingyi-wang-012727117/)
+
+Wilson Huang, [Linkedin](https://www.linkedin.com/in/zunqihuang/)
+
+Fanzhe Meng, [Linkedin](https://www.linkedin.com/in/fanzhemeng)
+
+Jianchen Gao, [Linkedin](https://www.linkedin.com/in/jianchen-gao-20847a1a1/)
+
+Xuetao Sun, [Linkedin](https://www.linkedin.com/in/xuetao-sun-bb6b6b94/)
 
